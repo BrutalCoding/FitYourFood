@@ -107,7 +107,11 @@ namespace FitYourFood
             JsonParser parser = new JsonParser();
             if (checkBoxVegan.IsToggled)
             {
+                //De json bestanden moeten als build action een embedded resource zijn
                 var x = parser.parseLocal("FitYourFood.Assets.recipe_Detail.json");
+
+                //Dit zou ideaal zijn als het zou werken, loopen door alle objecten en dan de titel tonen in een lijst
+                //Bovenste kan dan weg (var x) en de hardcoded dingen ook hieronder
                 //foreach (var x in parser.parseLocal("FitYourFood.Assets.recipe_Detail.json"))
                 //{
                 //    if (x.vegetarian)
@@ -127,7 +131,11 @@ namespace FitYourFood
             }
             else
             {
+                //De json bestanden moeten als build action een embedded resource zijn
                 var x = parser.parseLocal("FitYourFood.Assets.recipe_Detail.json");
+
+                //Dit zou ideaal zijn als het zou werken, loopen door alle objecten en dan de titel tonen in een lijst
+                //Bovenste kan dan weg (var x) en de hardcoded dingen ook hieronder
                 //foreach (var x in parser.parseLocal("FitYourFood.Assets.recipe_Detail.json"))
                 //{
                 //    if (!x.vegetarian)

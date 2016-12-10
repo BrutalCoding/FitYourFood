@@ -71,7 +71,7 @@ namespace FitYourFood.Model.RecipeDetail
         public object advice { get; set; }
     }
 
-    public class RootObject
+    public class RecipeInformationRootObject
     {
         public string requestId { get; set; }
         public List<RecipeInformation> recipeInformation { get; set; }
