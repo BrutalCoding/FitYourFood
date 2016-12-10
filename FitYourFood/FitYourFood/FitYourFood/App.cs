@@ -11,30 +11,7 @@ namespace FitYourFood
     {
         public App()
         {
-            MainPage = new StartScreen();
-            // The root page of your application
-            //MainPage = new ContentPage
-            //{
-            //    Content = new StackLayout
-            //    {
-            //        VerticalOptions = LayoutOptions.Center,
-            //        Children = {
-            //            new Label {
-            //                HorizontalTextAlignment = TextAlignment.Center,
-            //                Text = "Welcome to Xamarin Forms!"
-
-            //            },
-            //            new Button
-            //            {
-            //                Text = "Click Me!",
-            //                Font = Font.SystemFontOfSize(NamedSize.Large),
-            //                BorderWidth = 1,
-            //                HorizontalOptions = LayoutOptions.Center,
-            //                VerticalOptions = LayoutOptions.End
-            //            }
-            //        }
-            //    }
-            //};
+            MainPage = new NavigationPage(new StartScreen()) {Title = "Zoeken"};
         }
 
         protected override void OnStart()
