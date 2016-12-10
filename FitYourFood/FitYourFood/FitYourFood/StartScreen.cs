@@ -107,13 +107,14 @@ namespace FitYourFood
             JsonParser parser = new JsonParser();
             if (checkBoxVegan.IsToggled)
             {
-                foreach (var x in parser.parseLocal("FitYourFood.Assets.recipe_Detail.txt"))
-                {
-                    if (x.vegetarian)
-                    {
-                        picker.Items.Add(x.vegetarian.ToString());
-                    }
-                }
+                var x = parser.parseLocal("FitYourFood.Assets.recipe_Detail.json");
+                //foreach (var x in parser.parseLocal("FitYourFood.Assets.recipe_Detail.json"))
+                //{
+                //    if (x.vegetarian)
+                //    {
+                //        picker.Items.Add(x.vegetarian.ToString());
+                //    }
+                //}
 
                 //picker.Items.Add("King prawns");
                 //picker.Items.Add("Plain yogurt");
@@ -126,13 +127,14 @@ namespace FitYourFood
             }
             else
             {
-                foreach (var x in parser.parseLocal("FitYourFood.Assets.RecipeDetail"))
-                {
-                    if (!x.vegetarian)
-                    {
-                        picker.Items.Add(x.vegetarian.ToString());
-                    }
-                }
+                var x = parser.parseLocal("FitYourFood.Assets.recipe_Detail.json");
+                //foreach (var x in parser.parseLocal("FitYourFood.Assets.recipe_Detail.json"))
+                //{
+                //    if (!x.vegetarian)
+                //    {
+                //        picker.Items.Add(x.vegetarian.ToString());
+                //    }
+                //}
                 //picker.Items.Add("Chicken");
                 //picker.Items.Add("Paprika powder");
                 //picker.Items.Add("Coriander powder");

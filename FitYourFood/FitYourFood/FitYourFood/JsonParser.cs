@@ -13,7 +13,7 @@ namespace FitYourFood
 {
     public class JsonParser
     {
-        public List<RecipeInformation> parseLocal(string file)
+        public RecipeInformation parseLocal(string file)
         {
             var assembly = typeof(Model.RecipeDetail.RecipeInformation).GetTypeInfo().Assembly;
             Stream stream = assembly.GetManifestResourceStream(file);
@@ -22,7 +22,7 @@ namespace FitYourFood
             {
                 text = reader.ReadToEnd();
             }
-            List<RecipeInformation> list = JsonConvert.DeserializeObject<List<RecipeInformation>>(text);
+            RecipeInformation list = JsonConvert.DeserializeObject<RecipeInformation>(text);
             return list;
         }
 
