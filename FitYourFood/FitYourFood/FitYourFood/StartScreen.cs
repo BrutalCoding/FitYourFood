@@ -1,13 +1,21 @@
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using Xamarin.Forms;
+using Newtonsoft.Json;
+using System.IO;
+using System.Net;
+using System.Net.Http;
+using System.Reflection;
 
 namespace FitYourFood
 {
     public class StartScreen : ContentPage
     {
+        
+
         public StartScreen()
         {
             var layout = new StackLayout();
@@ -51,7 +59,7 @@ namespace FitYourFood
             };
             lstView.ItemsSource = fruit;
             lstView.RowHeight = 30;
-            
+
             //Stacklayout
             layout_veganButton.Padding = 15;
             layout_veganButton.Children.Add(labelVegan);
@@ -59,6 +67,8 @@ namespace FitYourFood
             layout.Children.Add(layout_veganButton);
             layout.Children.Add(labelLstview);
             layout.Children.Add(lstView);
+
+
             
             Content = layout;
         }
