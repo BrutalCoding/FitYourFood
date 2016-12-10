@@ -9,6 +9,8 @@ namespace FitYourFood
 {
     public class StartScreen : ContentPage
     {
+        Switch checkBoxVegan;
+        Picker picker;
         public StartScreen()
         {
             var layout = new StackLayout();
@@ -24,12 +26,12 @@ namespace FitYourFood
                 VerticalOptions = LayoutOptions.Start,
                 HorizontalOptions = LayoutOptions.Start
             };
-            var checkBoxVegan = new Switch
+            checkBoxVegan = new Switch
             {
                 VerticalOptions = LayoutOptions.Start,
                 HorizontalOptions = LayoutOptions.CenterAndExpand
             };
-            bool isVegan = checkBoxVegan.IsToggled;
+
             ObservableCollection<string> selectedIngredients = new ObservableCollection<string>();
 
             var labelLstview = new Label
@@ -46,7 +48,7 @@ namespace FitYourFood
                 HeightRequest = 310
             };
 
-            Picker picker = new Picker
+            picker = new Picker
             {
                 Title = "Exclude recipe ingredients",
                 VerticalOptions = LayoutOptions.Start
@@ -59,20 +61,11 @@ namespace FitYourFood
                 HorizontalOptions = LayoutOptions.Center
             };
 
-            picker.Items.Add("Apple");
-            picker.Items.Add("Banana");
-            picker.Items.Add("pineApple");
-            picker.Items.Add("Kiwi");
-            picker.Items.Add("Pen");
-            picker.Items.Add("Tas");
-            picker.Items.Add("Fles");
-            picker.Items.Add("PC");
-            picker.Items.Add("Computer");
-
             lstView.ItemsSource = selectedIngredients;
             lstView.RowHeight = 45;
-            
+
             //Stacklayout
+            FillPicker();
             layout_veganButton.Padding = 15;
             layout_veganButton.Children.Add(labelVegan);
             layout_veganButton.Children.Add(checkBoxVegan);
@@ -82,6 +75,11 @@ namespace FitYourFood
             layout.Children.Add(lstView);
             layout.Children.Add(searchBtn);
             
+            checkBoxVegan.Toggled += (sender, args) =>
+            {
+                FillPicker();
+            };
+
             picker.SelectedIndexChanged += (sender, args) =>
             {
                 if (!selectedIngredients.Contains(picker.Items[picker.SelectedIndex]))
@@ -101,6 +99,39 @@ namespace FitYourFood
             };
 
             Content = layout;
+        }
+        public void FillPicker()
+        {
+            picker.Items.Clear();
+            if (checkBoxVegan.IsToggled)
+            {
+                picker.Items.Add("King prawns");
+                picker.Items.Add("Plain yogurt");
+                picker.Items.Add("Garlic");
+                picker.Items.Add("Ginger");
+                picker.Items.Add("Cumin powder");
+                picker.Items.Add("Paprika powder");
+                picker.Items.Add("Coriander powder");
+                picker.Items.Add("Tandoori colour powder");
+            }
+            else
+            {
+                picker.Items.Add("Chicken");
+                picker.Items.Add("Paprika powder");
+                picker.Items.Add("Coriander powder");
+                picker.Items.Add("Cow");
+                picker.Items.Add("Plain yogurt");
+                picker.Items.Add("Cheese");
+                picker.Items.Add("Egg");
+                picker.Items.Add("Bread");
+                picker.Items.Add("King prawns");
+                picker.Items.Add("Garlic");
+                picker.Items.Add("Ginger");
+                picker.Items.Add("Pig");
+                picker.Items.Add("Frog");
+                picker.Items.Add("Cumin powder");
+                picker.Items.Add("Tandoori colour powder");
+            }
         }
     }
 }
