@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
+using FitYourFood.Model.RecipeDetail;
 using Xamarin.Forms;
 
 namespace FitYourFood
@@ -103,34 +104,50 @@ namespace FitYourFood
         public void FillPicker()
         {
             picker.Items.Clear();
+            JsonParser parser = new JsonParser();
             if (checkBoxVegan.IsToggled)
             {
-                picker.Items.Add("King prawns");
-                picker.Items.Add("Plain yogurt");
-                picker.Items.Add("Garlic");
-                picker.Items.Add("Ginger");
-                picker.Items.Add("Cumin powder");
-                picker.Items.Add("Paprika powder");
-                picker.Items.Add("Coriander powder");
-                picker.Items.Add("Tandoori colour powder");
+                foreach (var x in parser.parseLocal("FitYourFood.Assets.recipe_Detail.txt"))
+                {
+                    if (x.vegetarian)
+                    {
+                        picker.Items.Add(x.vegetarian.ToString());
+                    }
+                }
+
+                //picker.Items.Add("King prawns");
+                //picker.Items.Add("Plain yogurt");
+                //picker.Items.Add("Garlic");
+                //picker.Items.Add("Ginger");
+                //picker.Items.Add("Cumin powder");
+                //picker.Items.Add("Paprika powder");
+                //picker.Items.Add("Coriander powder");
+                //picker.Items.Add("Tandoori colour powder");
             }
             else
             {
-                picker.Items.Add("Chicken");
-                picker.Items.Add("Paprika powder");
-                picker.Items.Add("Coriander powder");
-                picker.Items.Add("Cow");
-                picker.Items.Add("Plain yogurt");
-                picker.Items.Add("Cheese");
-                picker.Items.Add("Egg");
-                picker.Items.Add("Bread");
-                picker.Items.Add("King prawns");
-                picker.Items.Add("Garlic");
-                picker.Items.Add("Ginger");
-                picker.Items.Add("Pig");
-                picker.Items.Add("Frog");
-                picker.Items.Add("Cumin powder");
-                picker.Items.Add("Tandoori colour powder");
+                foreach (var x in parser.parseLocal("FitYourFood.Assets.RecipeDetail"))
+                {
+                    if (!x.vegetarian)
+                    {
+                        picker.Items.Add(x.vegetarian.ToString());
+                    }
+                }
+                //picker.Items.Add("Chicken");
+                //picker.Items.Add("Paprika powder");
+                //picker.Items.Add("Coriander powder");
+                //picker.Items.Add("Cow");
+                //picker.Items.Add("Plain yogurt");
+                //picker.Items.Add("Cheese");
+                //picker.Items.Add("Egg");
+                //picker.Items.Add("Bread");
+                //picker.Items.Add("King prawns");
+                //picker.Items.Add("Garlic");
+                //picker.Items.Add("Ginger");
+                //picker.Items.Add("Pig");
+                //picker.Items.Add("Frog");
+                //picker.Items.Add("Cumin powder");
+                //picker.Items.Add("Tandoori colour powder");
             }
         }
     }

@@ -36,39 +36,39 @@ namespace FitYourFood.Model.RecipeDetail
     public class RecipeInformation
     {
         public bool vegetarian { get; set; }
-        public string typeOfRecipe { get; set; }
-        public int totalTime { get; set; }
-        public object toolsImageURL { get; set; }
-        public string temperatureUnit { get; set; }
-        public string source { get; set; }
-        public string shortDescription { get; set; }
-        public string servings { get; set; }
-        public string season { get; set; }
-        public string region { get; set; }
-        public string recipeTitle { get; set; }
-        public List<object> recipeTipsAndTricks { get; set; }
-        public object recipeTags { get; set; }
-        public List<RecipeStep> recipeSteps { get; set; }
-        public List<RecipeIngredient> recipeIngredients { get; set; }
-        public object recipeImageURL { get; set; }
-        public string recipeId { get; set; }
-        public string recipeDescription { get; set; }
-        public List<object> recipeAccessory { get; set; }
-        public int preparationTime { get; set; }
-        public string mainIngredients { get; set; }
-        public bool locked { get; set; }
-        public string lastUpdatedTime { get; set; }
-        public string language { get; set; }
-        public object ingredientImageURL { get; set; }
-        public string englishTitle { get; set; }
-        public string englishCusine { get; set; }
-        public string englishCourse { get; set; }
-        public string coverImage { get; set; }
-        public string course { get; set; }
-        public object countryOfOrigin { get; set; }
-        public int cookingTime { get; set; }
-        public string cookingMethod { get; set; }
-        public object advice { get; set; }
+        //public string typeOfRecipe { get; set; }
+        //public int totalTime { get; set; }
+        //public object toolsImageURL { get; set; }
+        //public string temperatureUnit { get; set; }
+        //public string source { get; set; }
+        //public string shortDescription { get; set; }
+        //public string servings { get; set; }
+        //public string season { get; set; }
+        //public string region { get; set; }
+        //public string recipeTitle { get; set; }
+        //public List<object> recipeTipsAndTricks { get; set; }
+        //public object recipeTags { get; set; }
+        //public List<RecipeStep> recipeSteps { get; set; }
+        //public List<RecipeIngredient> recipeIngredients { get; set; }
+        //public object recipeImageURL { get; set; }
+        //public string recipeId { get; set; }
+        //public string recipeDescription { get; set; }
+        //public List<object> recipeAccessory { get; set; }
+        //public int preparationTime { get; set; }
+        //public string mainIngredients { get; set; }
+        //public bool locked { get; set; }
+        //public string lastUpdatedTime { get; set; }
+        //public string language { get; set; }
+        //public object ingredientImageURL { get; set; }
+        //public string englishTitle { get; set; }
+        //public string englishCusine { get; set; }
+        //public string englishCourse { get; set; }
+        //public string coverImage { get; set; }
+        //public string course { get; set; }
+        //public object countryOfOrigin { get; set; }
+        //public int cookingTime { get; set; }
+        //public string cookingMethod { get; set; }
+        //public object advice { get; set; }
     }
 
     public class RootObject
