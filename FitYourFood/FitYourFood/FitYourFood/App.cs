@@ -11,7 +11,7 @@ namespace FitYourFood
     {
         public App()
         {
-            MainPage = new StartScreen();
+            MainPage = new NavigationPage(new StartScreen()) {Title = "Zoeken"};
         }
 
         protected override void OnStart()
