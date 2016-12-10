@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FitYourFood.Model
+namespace FitYourFood.Model.Recipe
 {
     public class Step
     {
