@@ -81,17 +81,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": "Calming / Relaxing",
-          "Health Benefit (Copy PPT+Nuts)": "Grasshopper is high in Vitamin C . \nVitamin C contributes to normal functioning of the nervous system."
+          "Health_Benefit": "Grasshopper is high in Vitamin C . \nVitamin C contributes to normal functioning of the nervous system."
         },
         "nutrition": [
           {
@@ -350,17 +350,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetables",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Love it up is high in Vitamin C and Vitamin A and contains Vitamin K. Vitamin C and A contribute to the normal function of the immune system.\n Vitamin K plays a role in the maintenance of normal bones."
+          "Health_Benefit": "Love it up is high in Vitamin C and Vitamin A and contains Vitamin K. Vitamin C and A contribute to the normal function of the immune system.\n Vitamin K plays a role in the maintenance of normal bones."
         },
         "nutrition": [
           {
@@ -611,17 +611,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Immuneblast juice is high in Vitamin C and Vitamin K. Vitamin C plays a role in the normal function of the immune system. \nVitamin K contributes to supporting the maintenance of normal bones."
+          "Health_Benefit": "Immuneblast juice is high in Vitamin C and Vitamin K. Vitamin C plays a role in the normal function of the immune system. \nVitamin K contributes to supporting the maintenance of normal bones."
         },
         "nutrition": [
           {
@@ -863,17 +863,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Pure Citrus is high in Vitamin C and contains Folate. Vitamin C and Folate contributes to the normal function of the immune system."
+          "Health_Benefit": "Pure Citrus is high in Vitamin C and contains Folate. Vitamin C and Folate contributes to the normal function of the immune system."
         },
         "nutrition": [
           {
@@ -1119,17 +1119,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Workout punch is high in Vitamin C and a source of Vitamin K. \nVitamin C plays a role in normal collagen formation for the normal function of cartilage and Vitamin K contributes to the maintenance of normal bones."
+          "Health_Benefit": "Workout punch is high in Vitamin C and a source of Vitamin K. \nVitamin C plays a role in normal collagen formation for the normal function of cartilage and Vitamin K contributes to the maintenance of normal bones."
         },
         "nutrition": [
           {
@@ -1378,17 +1378,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": "Calming / Relaxing",
-          "Health Benefit (Copy PPT+Nuts)": "Green Eeyecatcher is high in Vitamin C, Vitamin A and Vitamin K and a source of Potassium and Magnesium. \nVitamin C increases iron absorption, Vitamin A contributes to maintaining the normal vision, Vitamin K plays a role in the maintenance of normal bones. \nPotassium and Magnesium contribute to normal muscle function."
+          "Health_Benefit": "Green Eeyecatcher is high in Vitamin C, Vitamin A and Vitamin K and a source of Potassium and Magnesium. \nVitamin C increases iron absorption, Vitamin A contributes to maintaining the normal vision, Vitamin K plays a role in the maintenance of normal bones. \nPotassium and Magnesium contribute to normal muscle function."
         },
         "nutrition": [
           {
@@ -1634,17 +1634,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Veggietastic is high in Vitamin C and K. \nVitamin C plays a role in normal collagen formation for the normal function of cartilage and Vitamin K contributes to the maintenance of normal bones."
+          "Health_Benefit": "Veggietastic is high in Vitamin C and K. \nVitamin C plays a role in normal collagen formation for the normal function of cartilage and Vitamin K contributes to the maintenance of normal bones."
         },
         "nutrition": [
           {
@@ -1890,17 +1890,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": "Nuts",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Power shot is a source of Vitamin C, Vitamin A and Potassium and high in Vitamin K. \nVitamin C and Potassium contribute to a normal functioning of the nervous system. \nVitamin K supports the normal blood clotting and Vitamin A plays a role in the maintenance of normal vision."
+          "Health_Benefit": "Power shot is a source of Vitamin C, Vitamin A and Potassium and high in Vitamin K. \nVitamin C and Potassium contribute to a normal functioning of the nervous system. \nVitamin K supports the normal blood clotting and Vitamin A plays a role in the maintenance of normal vision."
         },
         "nutrition": [
           {
@@ -2137,17 +2137,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Red sensation is high in Vitamin C. Vitamin C contributes to the production of cells from oxidative stress."
+          "Health_Benefit": "Red sensation is high in Vitamin C. Vitamin C contributes to the production of cells from oxidative stress."
         },
         "nutrition": [
           {
@@ -2375,17 +2375,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Cranapple juice is a source of Vitamin C. Vitamin C supports the normal function of the nervous system."
+          "Health_Benefit": "Cranapple juice is a source of Vitamin C. Vitamin C supports the normal function of the nervous system."
         },
         "nutrition": [
           {
@@ -2637,17 +2637,17 @@
           "Centrifugal": "No",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and vegetables",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": "Nuts",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The good fats and antioxidants contained in almonds can have a positive effect on the cholesterol level but also on the skin."
+          "Health_Benefit": "The good fats and antioxidants contained in almonds can have a positive effect on the cholesterol level but also on the skin."
         },
         "nutrition": [
           {
@@ -2886,17 +2886,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Apple has soluble fiber that binds with the fat in the intestine and translates into lower cholesterol level."
+          "Health_Benefit": "Apple has soluble fiber that binds with the fat in the intestine and translates into lower cholesterol level."
         },
         "nutrition": [
           {
@@ -3162,17 +3162,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Spinach provides vitamin, protein, iron & mineral, which is good for skin, hair & bone health."
+          "Health_Benefit": "Spinach provides vitamin, protein, iron & mineral, which is good for skin, hair & bone health."
         },
         "nutrition": [
           {
@@ -3420,17 +3420,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Tomato is an excellent source of vitamin C, Biotin, Molybdenum, & vitamin K, it helps improve skin texture and color."
+          "Health_Benefit": "Tomato is an excellent source of vitamin C, Biotin, Molybdenum, & vitamin K, it helps improve skin texture and color."
         },
         "nutrition": [
           {
@@ -3688,17 +3688,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Cucumber contains vitamin B1, B5 and B7, which helps ease the feeling of anxiety."
+          "Health_Benefit": "Cucumber contains vitamin B1, B5 and B7, which helps ease the feeling of anxiety."
         },
         "nutrition": [
           {
@@ -3957,17 +3957,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Beetroot contains Nitrate, it helps lower blood pressure."
+          "Health_Benefit": "Beetroot contains Nitrate, it helps lower blood pressure."
         },
         "nutrition": [
           {
@@ -4216,17 +4216,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Grape increases the Nitric oxide levels in the blood, which prevents blood clots."
+          "Health_Benefit": "Grape increases the Nitric oxide levels in the blood, which prevents blood clots."
         },
         "nutrition": [
           {
@@ -4469,17 +4469,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Pineapple is rich in nutrient, vitamin & mineral, that helps in fighting free radicals to reduce cancer and tumors."
+          "Health_Benefit": "Pineapple is rich in nutrient, vitamin & mineral, that helps in fighting free radicals to reduce cancer and tumors."
         },
         "nutrition": [
           {
@@ -4713,17 +4713,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Summer sun is a source of Vitamin C. Vitamin C supports the normal psychological function."
+          "Health_Benefit": "Summer sun is a source of Vitamin C. Vitamin C supports the normal psychological function."
         },
         "nutrition": [
           {
@@ -4975,17 +4975,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Carrot contains vitamin A that slows down the ageing of cells."
+          "Health_Benefit": "Carrot contains vitamin A that slows down the ageing of cells."
         },
         "nutrition": [
           {
@@ -5216,17 +5216,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Pomegranate is rich in antioxidant that helps reduce morning sickness and nausea."
+          "Health_Benefit": "Pomegranate is rich in antioxidant that helps reduce morning sickness and nausea."
         },
         "nutrition": [
           {
@@ -5487,17 +5487,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Kale, spinach, and parsley provide a significant amount of nutrients including, magnesium, folate, and vitamin B6, which play important roles in optimal immune health."
+          "Health_Benefit": "Kale, spinach, and parsley provide a significant amount of nutrients including, magnesium, folate, and vitamin B6, which play important roles in optimal immune health."
         },
         "nutrition": [
           {
@@ -5739,17 +5739,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Watermelon is a great source of vitamin A, which helps the body fight off infection. \nPineapple and oranges contain an ample amount of vitamin C."
+          "Health_Benefit": "Watermelon is a great source of vitamin A, which helps the body fight off infection. \nPineapple and oranges contain an ample amount of vitamin C."
         },
         "nutrition": [
           {
@@ -5977,17 +5977,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "All of these ingredients provide a synergistic combination to support bone health."
+          "Health_Benefit": "All of these ingredients provide a synergistic combination to support bone health."
         },
         "nutrition": [
           {
@@ -6235,17 +6235,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "This healthy juicing recipe will aid in nourishing and ridding your body of toxins."
+          "Health_Benefit": "This healthy juicing recipe will aid in nourishing and ridding your body of toxins."
         },
         "nutrition": [
           {
@@ -6484,17 +6484,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Beet juice is a powerful cleanser of the blood, and highly nutritious."
+          "Health_Benefit": "Beet juice is a powerful cleanser of the blood, and highly nutritious."
         },
         "nutrition": [
           {
@@ -6733,17 +6733,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "This Wild spiced berry shot is a fantastic example of how a pulped juice is not only healthier and more beneficial, it is actually more texturally pleasing for detox."
+          "Health_Benefit": "This Wild spiced berry shot is a fantastic example of how a pulped juice is not only healthier and more beneficial, it is actually more texturally pleasing for detox."
         },
         "nutrition": [
           {
@@ -6990,17 +6990,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "This juice blend is easy on the digestive system and gently loosens any build up that may have occurred while the body was at rest."
+          "Health_Benefit": "This juice blend is easy on the digestive system and gently loosens any build up that may have occurred while the body was at rest."
         },
         "nutrition": [
           {
@@ -7249,17 +7249,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Cucumber and bell pepper are good sources of silicon which is recommended to strengthen skin hair and nails."
+          "Health_Benefit": "Cucumber and bell pepper are good sources of silicon which is recommended to strengthen skin hair and nails."
         },
         "nutrition": [
           {
@@ -7493,17 +7493,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Pina lavender is high in Vitamin C. Vitamin C contributes to normal psychological function."
+          "Health_Benefit": "Pina lavender is high in Vitamin C. Vitamin C contributes to normal psychological function."
         },
         "nutrition": [
           {
@@ -7734,17 +7734,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Peach is a great source of vitamin C, which helps to fight infections and boost the immune system."
+          "Health_Benefit": "Peach is a great source of vitamin C, which helps to fight infections and boost the immune system."
         },
         "nutrition": [
           {
@@ -8004,17 +8004,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Beautylicious is high in Vitamin C and Vitamin A. Vitamin C plays a role in the protection of cells from oxidative stress and Vitamin A contributes to supporting the maintenance of normal skin."
+          "Health_Benefit": "Beautylicious is high in Vitamin C and Vitamin A. Vitamin C plays a role in the protection of cells from oxidative stress and Vitamin A contributes to supporting the maintenance of normal skin."
         },
         "nutrition": [
           {
@@ -8258,17 +8258,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": "Calming / Relaxing",
-          "Health Benefit (Copy PPT+Nuts)": "Farmers market juice is high in Vitamin A. Vitamin A supports the normal iron Metabolism."
+          "Health_Benefit": "Farmers market juice is high in Vitamin A. Vitamin A supports the normal iron Metabolism."
         },
         "nutrition": [
           {
@@ -8510,17 +8510,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Liquid snack is a source of Vitamin A. Vitamin A contributes to the maintenance of normal skin."
+          "Health_Benefit": "Liquid snack is a source of Vitamin A. Vitamin A contributes to the maintenance of normal skin."
         },
         "nutrition": [
           {
@@ -8781,17 +8781,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetables",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Hangover remedy is a source of Vitamin C. \nVitamin C supports the normal energy-yielding metabolism."
+          "Health_Benefit": "Hangover remedy is a source of Vitamin C. \nVitamin C supports the normal energy-yielding metabolism."
         },
         "nutrition": [
           {
@@ -9052,17 +9052,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetables",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Deep red flamingo is high in Vitamin C and a source of Vitamin A. Vitamin C and A support a normal function of the immune system."
+          "Health_Benefit": "Deep red flamingo is high in Vitamin C and a source of Vitamin A. Vitamin C and A support a normal function of the immune system."
         },
         "nutrition": [
           {
@@ -9330,17 +9330,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "120",
-          "Search String": null
+          "Preparation_time": "120",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": null
+          "Health_Benefit": null
         },
         "nutrition": [
           {
@@ -9571,17 +9571,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Pear blossom can help to reduce oxidative stress."
+          "Health_Benefit": "Pear blossom can help to reduce oxidative stress."
         },
         "nutrition": [
           {
@@ -9849,17 +9849,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Bunny delight is high in Vitamin C and A. Vitamin C plays a role in the protection of cells from oxidative stress and Vitamin A contributes to supporting the maintenance of normal skin."
+          "Health_Benefit": "Bunny delight is high in Vitamin C and A. Vitamin C plays a role in the protection of cells from oxidative stress and Vitamin A contributes to supporting the maintenance of normal skin."
         },
         "nutrition": [
           {
@@ -10096,17 +10096,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Fitness wonder is a source of Vitamin C. Vitamin C plays a role in the reduction of tiredness and fatigue."
+          "Health_Benefit": "Fitness wonder is a source of Vitamin C. Vitamin C plays a role in the reduction of tiredness and fatigue."
         },
         "nutrition": [
           {
@@ -10352,17 +10352,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Green booster is high in Vitamin K. \nVitamin K contributes to the maintenance of normal bones."
+          "Health_Benefit": "Green booster is high in Vitamin K. \nVitamin K contributes to the maintenance of normal bones."
         },
         "nutrition": [
           {
@@ -10616,17 +10616,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Cold prevention is high in Vitamin C. Vitamin C and A contribute to maintaining the normal function of the immune system."
+          "Health_Benefit": "Cold prevention is high in Vitamin C. Vitamin C and A contribute to maintaining the normal function of the immune system."
         },
         "nutrition": [
           {
@@ -10863,17 +10863,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Fresh breeze could have a positive effect on the acid -base balance of the body."
+          "Health_Benefit": "Fresh breeze could have a positive effect on the acid -base balance of the body."
         },
         "nutrition": [
           {
@@ -11092,17 +11092,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Yellow Thunder is high in Vitamin C. Vitamin C plays a role in in the normal collagen formation for the normal function of skin."
+          "Health_Benefit": "Yellow Thunder is high in Vitamin C. Vitamin C plays a role in in the normal collagen formation for the normal function of skin."
         },
         "nutrition": [
           {
@@ -11365,17 +11365,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "10",
-          "Search String": null
+          "Preparation_time": "10",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": null
+          "Health_Benefit": null
         },
         "nutrition": [
           {
@@ -11605,17 +11605,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Heart rocker is high in Vitamin C. Vitamin C supports the normal energy yielding metabolism."
+          "Health_Benefit": "Heart rocker is high in Vitamin C. Vitamin C supports the normal energy yielding metabolism."
         },
         "nutrition": [
           {
@@ -11857,17 +11857,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Purple power punch is a source of Vitamin C and Vitamin K. Vitamin C plays a role in normal collagen formation for the normal function of cartilage and Vitamin K contributes to the maintenance of normal bones."
+          "Health_Benefit": "Purple power punch is a source of Vitamin C and Vitamin K. Vitamin C plays a role in normal collagen formation for the normal function of cartilage and Vitamin K contributes to the maintenance of normal bones."
         },
         "nutrition": [
           {
@@ -12091,17 +12091,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Ruby contains a lot of natural antioxidants."
+          "Health_Benefit": "Ruby contains a lot of natural antioxidants."
         },
         "nutrition": [
           {
@@ -12335,17 +12335,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Pepperino is high in Vitamin C. Vitamin C plays a role in normal collagen formation for the normal function of skin."
+          "Health_Benefit": "Pepperino is high in Vitamin C. Vitamin C plays a role in normal collagen formation for the normal function of skin."
         },
         "nutrition": [
           {
@@ -12579,17 +12579,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Sunny peach is a source of Vitamin C. Vitamin C plays a role in the reduction of tiredness and fatigue."
+          "Health_Benefit": "Sunny peach is a source of Vitamin C. Vitamin C plays a role in the reduction of tiredness and fatigue."
         },
         "nutrition": [
           {
@@ -12817,17 +12817,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Red passion is a source of vitamin C. \nVitamin C can have positive influence on the health"
+          "Health_Benefit": "Red passion is a source of vitamin C. \nVitamin C can have positive influence on the health"
         },
         "nutrition": [
           {
@@ -13072,17 +13072,17 @@
           "Centrifugal": "no",
           "Masticating": "yes",
           "Blender": "no",
-          "Preparation  time (min)": "130",
-          "Search String": null
+          "Preparation_time": "130",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": null
+          "Health_Benefit": null
         },
         "nutrition": [
           {
@@ -13317,17 +13317,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": null
+          "Health_Benefit": null
         },
         "nutrition": [
           {
@@ -13588,17 +13588,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "20",
-          "Search String": null
+          "Preparation_time": "20",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": null
+          "Health_Benefit": null
         },
         "nutrition": [
           {
@@ -13826,17 +13826,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Sunset is high in Vitamin C. Vitamin C plays a role in normal collagen formation for the normal function of gums."
+          "Health_Benefit": "Sunset is high in Vitamin C. Vitamin C plays a role in normal collagen formation for the normal function of gums."
         },
         "nutrition": [
           {
@@ -14081,17 +14081,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Orange vision is a source of Vitamin A. Vitamin A has a role in the process of cell specialization."
+          "Health_Benefit": "Orange vision is a source of Vitamin A. Vitamin A has a role in the process of cell specialization."
         },
         "nutrition": [
           {
@@ -14319,17 +14319,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": null
+          "Health_Benefit": null
         },
         "nutrition": [
           {
@@ -14574,17 +14574,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Ingredients": "Fruits and Vegetable",
           "Source": "Philips",
           "Device": "Juicer",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Berry blast is high in Vitamin C and Folate. Vitamin C contribute to normal functioning of the nervous system. \nFolate contributes to maternal tissue growth during pregnancy."
+          "Health_Benefit": "Berry blast is high in Vitamin C and Folate. Vitamin C contribute to normal functioning of the nervous system. \nFolate contributes to maternal tissue growth during pregnancy."
         },
         "nutrition": [
           {
@@ -14859,17 +14859,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Boost your immune system and energy level with this energizing snack."
+          "Health_Benefit": "Boost your immune system and energy level with this energizing snack."
         },
         "nutrition": [
           {
@@ -15121,17 +15121,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Boost your immune system with this powerful drink rich in Vitamin A, and contributes to the normal function of the immune system.\nVitamin A contributes to the maintenance of normal skin and vision."
+          "Health_Benefit": "Boost your immune system with this powerful drink rich in Vitamin A, and contributes to the normal function of the immune system.\nVitamin A contributes to the maintenance of normal skin and vision."
         },
         "nutrition": [
           {
@@ -15383,17 +15383,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The Avocado Green Smoothie is a source of Vitamin C that supports the normal energy-yielding metabolism.\nThe drink may support the digestive system and cleansing the body."
+          "Health_Benefit": "The Avocado Green Smoothie is a source of Vitamin C that supports the normal energy-yielding metabolism.\nThe drink may support the digestive system and cleansing the body."
         },
         "nutrition": [
           {
@@ -15691,17 +15691,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The Baby Bok Choi Smoothie is a source of Vitamin A and C and support the normal function of the immune system. Vitamin C supports the protection of the cells from oxidative stress, and Vitamin A contributes to the maintenance of normal skin."
+          "Health_Benefit": "The Baby Bok Choi Smoothie is a source of Vitamin A and C and support the normal function of the immune system. Vitamin C supports the protection of the cells from oxidative stress, and Vitamin A contributes to the maintenance of normal skin."
         },
         "nutrition": [
           {
@@ -15953,17 +15953,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "This filling milk-shake will keep you from feeling hungry and dairy products aid for a boost of protein."
+          "Health_Benefit": "This filling milk-shake will keep you from feeling hungry and dairy products aid for a boost of protein."
         },
         "nutrition": [
           {
@@ -16195,17 +16195,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Berries are known for providing the extra radiance to help minimize skin irritations. \nVitamin C supports the normal energy-yielding metabolism."
+          "Health_Benefit": "Berries are known for providing the extra radiance to help minimize skin irritations. \nVitamin C supports the normal energy-yielding metabolism."
         },
         "nutrition": [
           {
@@ -16478,17 +16478,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Provides Vitamins, Calcium and Protein."
+          "Health_Benefit": "Provides Vitamins, Calcium and Protein."
         },
         "nutrition": [
           {
@@ -16742,17 +16742,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Provides Vitamins, Dietary Fibers and Potassium"
+          "Health_Benefit": "Provides Vitamins, Dietary Fibers and Potassium"
         },
         "nutrition": [
           {
@@ -17012,17 +17012,17 @@
           "Centrifugal": "Yes",
           "Masticating": "Yes",
           "Blender": "no",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": "Nuts",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Dairy products may provide you a boost of protein, berries are known for extra skin radiance.\nThe good fats and antioxidants in almonds may have a positive effect skin."
+          "Health_Benefit": "Dairy products may provide you a boost of protein, berries are known for extra skin radiance.\nThe good fats and antioxidants in almonds may have a positive effect skin."
         },
         "nutrition": [
           {
@@ -17265,17 +17265,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The smoothie is a source of Vitamin C.\nVitamin C is known for protection of cells from oxidative stress."
+          "Health_Benefit": "The smoothie is a source of Vitamin C.\nVitamin C is known for protection of cells from oxidative stress."
         },
         "nutrition": [
           {
@@ -17546,17 +17546,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The Carrot-beetroot smoothie is a source of Vitamin C that contributes to normal functioning of the nervous system."
+          "Health_Benefit": "The Carrot-beetroot smoothie is a source of Vitamin C that contributes to normal functioning of the nervous system."
         },
         "nutrition": [
           {
@@ -17806,17 +17806,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Juice",
+          "Type_of_drink": "Juice",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "This juice is a source of Vitamin A and C. Vitamin A contributes to the maintenance of normal skin and vision."
+          "Health_Benefit": "This juice is a source of Vitamin A and C. Vitamin A contributes to the maintenance of normal skin and vision."
         },
         "nutrition": [
           {
@@ -18086,17 +18086,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Cucumber contains Vitamins B1, B5 and B7 which may help to ease the feeling of anxiety.\nThe smoothie also provides Vitamin A that may support normal skin and vision."
+          "Health_Benefit": "Cucumber contains Vitamins B1, B5 and B7 which may help to ease the feeling of anxiety.\nThe smoothie also provides Vitamin A that may support normal skin and vision."
         },
         "nutrition": [
           {
@@ -18349,17 +18349,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The ingredients of the juice are known for supporting the energy level."
+          "Health_Benefit": "The ingredients of the juice are known for supporting the energy level."
         },
         "nutrition": [
           {
@@ -18610,17 +18610,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Nuts",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The smoothie provides Vitamin C and E, and Calcium.\nThe nutrients contribute to a normal energy-yielding metabolism and may contribute to the protection of cells from oxidative stress."
+          "Health_Benefit": "The smoothie provides Vitamin C and E, and Calcium.\nThe nutrients contribute to a normal energy-yielding metabolism and may contribute to the protection of cells from oxidative stress."
         },
         "nutrition": [
           {
@@ -18911,17 +18911,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The smoothie provides essential vitamins to contribute to a normal energy-yielding metabolism and nervous system."
+          "Health_Benefit": "The smoothie provides essential vitamins to contribute to a normal energy-yielding metabolism and nervous system."
         },
         "nutrition": [
           {
@@ -19200,17 +19200,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The Smoothie provides Vitamin C and Vitamin K. Kale benefits your skin with its vitamins and minerals.\nVitamin C and Vitamin K contribute to the maintenance of normal bones."
+          "Health_Benefit": "The Smoothie provides Vitamin C and Vitamin K. Kale benefits your skin with its vitamins and minerals.\nVitamin C and Vitamin K contribute to the maintenance of normal bones."
         },
         "nutrition": [
           {
@@ -19442,17 +19442,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": "Nuts",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The good fats and antioxidants in almonds may have a positive effect on cholesterol levels and even on the skin."
+          "Health_Benefit": "The good fats and antioxidants in almonds may have a positive effect on cholesterol levels and even on the skin."
         },
         "nutrition": [
           {
@@ -19692,17 +19692,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Special",
+          "Type_of_drink": "Special",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "A creamy coffee treat with a hint of vanilla."
+          "Health_Benefit": "A creamy coffee treat with a hint of vanilla."
         },
         "nutrition": [
           {
@@ -19958,17 +19958,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Kale and pineapples are a source Vitamin C to support the normal function of the skin."
+          "Health_Benefit": "Kale and pineapples are a source Vitamin C to support the normal function of the skin."
         },
         "nutrition": [
           {
@@ -20248,17 +20248,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The smoothie is rich in Vitamin C and K, next to other essential nutrients.\nBlueberries are providing vitamins, minerals, and antioxidants. The smoothie provides Vitamin C as an essential nutrient for overall health."
+          "Health_Benefit": "The smoothie is rich in Vitamin C and K, next to other essential nutrients.\nBlueberries are providing vitamins, minerals, and antioxidants. The smoothie provides Vitamin C as an essential nutrient for overall health."
         },
         "nutrition": [
           {
@@ -20514,17 +20514,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The Kiwi Papaya Smoothie is a source of Vitamin C. \nVitamin C contributes to the normal function of the immune system, the protection of cells from oxidative stress and reduction of tiredness."
+          "Health_Benefit": "The Kiwi Papaya Smoothie is a source of Vitamin C. \nVitamin C contributes to the normal function of the immune system, the protection of cells from oxidative stress and reduction of tiredness."
         },
         "nutrition": [
           {
@@ -20777,17 +20777,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": null,
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The smoothie is a source of Vitamin C. \nVitamin C contributes to the normal function of the immune system, the protection of cells from oxidative stress and reduction of tiredness."
+          "Health_Benefit": "The smoothie is a source of Vitamin C. \nVitamin C contributes to the normal function of the immune system, the protection of cells from oxidative stress and reduction of tiredness."
         },
         "nutrition": [
           {
@@ -21037,17 +21037,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Bananas keep you from feeling hungry - the healthy choice for a snack, packed with Vitamin C to support your energy-yielding metabolism."
+          "Health_Benefit": "Bananas keep you from feeling hungry - the healthy choice for a snack, packed with Vitamin C to support your energy-yielding metabolism."
         },
         "nutrition": [
           {
@@ -21309,17 +21309,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Nuts",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Berries are known for providing the extra radiance to help minimize skin irritations. \nThe good fats and antioxidants in almonds may have a positive effect skin."
+          "Health_Benefit": "Berries are known for providing the extra radiance to help minimize skin irritations. \nThe good fats and antioxidants in almonds may have a positive effect skin."
         },
         "nutrition": [
           {
@@ -21566,17 +21566,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Bananas prevent you from feeling hungry, and berries are known for supporting skin appearance."
+          "Health_Benefit": "Bananas prevent you from feeling hungry, and berries are known for supporting skin appearance."
         },
         "nutrition": [
           {
@@ -21840,17 +21840,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "Dairy products may give you the boost of protein, enhanced with all the vitamins and nutrients from the fruits in the smoothie."
+          "Health_Benefit": "Dairy products may give you the boost of protein, enhanced with all the vitamins and nutrients from the fruits in the smoothie."
         },
         "nutrition": [
           {
@@ -22104,17 +22104,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "A delicious cream as source of vitamin C.\nVitamin C is good to protect the cells from oxidative stress."
+          "Health_Benefit": "A delicious cream as source of vitamin C.\nVitamin C is good to protect the cells from oxidative stress."
         },
         "nutrition": [
           {
@@ -22387,17 +22387,17 @@
           "Centrifugal": "no",
           "Masticating": "no",
           "Blender": "yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "None",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The smoothie is a source of vitamin A and C.\nVitamin C plays a role in the protection of cells from oxidative stress and Vitamin A contributes to supporting the maintenance of normal skin."
+          "Health_Benefit": "The smoothie is a source of vitamin A and C.\nVitamin C plays a role in the protection of cells from oxidative stress and Vitamin A contributes to supporting the maintenance of normal skin."
         },
         "nutrition": [
           {
@@ -22660,17 +22660,17 @@
           "Centrifugal": "No",
           "Masticating": "No",
           "Blender": "Yes",
-          "Preparation  time (min)": "5",
-          "Search String": null
+          "Preparation_time": "5",
+          "Search_String": null
         },
         "filterDictionary": {
           "Taste": "Sweet",
           "Source": "Philips",
           "Device": "Blender",
-          "Type of drink": "Smoothie",
+          "Type_of_drink": "Smoothie",
           "Allergen": "Milk",
           "Benefit": null,
-          "Health Benefit (Copy PPT+Nuts)": "The smoothie is a source of vitamin C, to protect cells from oxidative stress. The dairy products provide you the essential proteins."
+          "Health_Benefit": "The smoothie is a source of vitamin C, to protect cells from oxidative stress. The dairy products provide you the essential proteins."
         },
         "nutrition": [
           {
