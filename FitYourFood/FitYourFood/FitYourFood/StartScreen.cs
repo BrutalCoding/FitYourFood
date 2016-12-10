@@ -32,8 +32,6 @@ namespace FitYourFood
             bool isVegan = checkBoxVegan.IsToggled;
             ObservableCollection<string> selectedIngredients = new ObservableCollection<string>();
 
-            //List<string> selectedIngredients = new List<string>();
-
             var labelLstview = new Label
             {
                 Text = "Excluded ingredients",
@@ -99,7 +97,7 @@ namespace FitYourFood
 
             searchBtn.Clicked += (sender, args) =>
             {
-
+                Navigation.PushAsync(new RecipeScreen(selectedIngredients));
             };
 
             Content = layout;
